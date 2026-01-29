@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛰️ I’m currently working on NutriCare and SkillMart<br>🧑‍🤝‍🧑 I’m learning Web Development<br>🌱 I’m currently learning Python and Java<br>💬 Ask me about MERN Stack<br>⚡ Fun fact - I am a good videographer and photographer
+🛰️ I’m currently working on SmartPark – AI & IoT Based Smart Parking Management System and SkillMart-ED Tech <br>🧑‍🤝‍🧑 I’m learning Web Development<br>🌱 I’m currently learning ML.<br>💬 Ask me about MERN Stack<br>⚡ Fun fact - I am a good videographer and photographer
 
 
 ## 🌐 Socials:
