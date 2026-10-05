@@ -3,6 +3,7 @@
 <p align="center">
   <a href="mailto:darshankachhiya.ce@gmail.com"><img src="https://img.shields.io/badge/Email-1F2328?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/darshan-kachhiya-4b102a24a/"><img src="https://img.shields.io/badge/LinkedIn-2F5BEA?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.darshankachhiya.page/"><img src="https://img.shields.io/badge/Portfolio-D9480F?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://nexocrat.in"><img src="https://img.shields.io/badge/NexoCrat-1F2328?style=flat-square&logo=rocket&logoColor=white"></a>
   <a href="https://nexolabs.in"><img src="https://img.shields.io/badge/NexoLabs-1F2328?style=flat-square&logo=codesandbox&logoColor=white"></a>
 </p>
@@ -141,6 +142,7 @@ Open to collaborations, freelance builds and research conversations. Fastest rep
 <p>
   <a href="mailto:darshankachhiya.ce@gmail.com"><img src="https://img.shields.io/badge/Email-1F2328?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/darshan-kachhiya-4b102a24a/"><img src="https://img.shields.io/badge/LinkedIn-2F5BEA?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.darshankachhiya.page/"><img src="https://img.shields.io/badge/Portfolio-D9480F?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://nexocrat.in"><img src="https://img.shields.io/badge/NexoCrat-1F2328?style=flat-square&logo=rocket&logoColor=white"></a>
   <a href="https://nexolabs.in"><img src="https://img.shields.io/badge/NexoLabs-1F2328?style=flat-square&logo=codesandbox&logoColor=white"></a>
 </p>
