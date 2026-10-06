@@ -79,13 +79,13 @@ Computer Engineering student at **CSPIT, CHARUSAT University** and co-founder of
 
 | | |
 |---|---|
-| **languages** | <img src="https://skillicons.dev/icons?i=py,js,ts,java,c,cpp,php&theme=dark" height="40" alt="py,js,ts,java,c,cpp,php"> |
-| **frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,materialui&theme=dark" height="40" alt="react,nextjs,vite,tailwind,redux,materialui"> |
-| **backend & data** | <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,mysql,firebase&theme=dark" height="40" alt="nodejs,express,prisma,postgres,mongodb,mysql,firebase"> |
-| **ai / ml** | <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv&theme=dark" height="40" alt="sklearn,tensorflow,opencv"> |
-| **cloud & devops** | <img src="https://skillicons.dev/icons?i=aws,vercel,cloudflare,docker&theme=dark" height="40" alt="aws,vercel,cloudflare,docker"> |
-| **hardware** | <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" height="40" alt="raspberrypi,arduino"> |
-| **tools** | <img src="https://skillicons.dev/icons?i=git,github,figma,latex&theme=dark" height="40" alt="git,github,figma,latex"> |
+| **languages** | <img src="assets/stack/languages.svg" height="40" alt="py,js,ts,java,c,cpp,php"> |
+| **frontend** | <img src="assets/stack/frontend.svg" height="40" alt="react,nextjs,vite,tailwind,redux,materialui"> |
+| **backend & data** | <img src="assets/stack/backend.svg" height="40" alt="nodejs,express,prisma,postgres,mongodb,mysql,firebase"> |
+| **ai / ml** | <img src="assets/stack/aiml.svg" height="40" alt="sklearn,tensorflow,opencv"> |
+| **cloud & devops** | <img src="assets/stack/cloud.svg" height="40" alt="aws,vercel,cloudflare,docker"> |
+| **hardware** | <img src="assets/stack/hardware.svg" height="40" alt="raspberrypi,arduino"> |
+| **tools** | <img src="assets/stack/tools.svg" height="40" alt="git,github,figma,latex"> |
 
 <sub>also: React Native · shadcn/ui · Zustand · YOLOv8 · spaCy · Hugging Face · Gemini API · Railway · Render · ESP8266/ESP32 · GrovePi+ · RFID · Stripe · Razorpay · Brevo · Claude Code · MCP</sub>
 
