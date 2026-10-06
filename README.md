@@ -79,13 +79,13 @@ Computer Engineering student at **CSPIT, CHARUSAT University** and co-founder of
 
 | | |
 |---|---|
-| **languages** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjs%2Cts%2Cjava%2Cc%2Ccpp%2Cphp&theme=dark"><img src="https://skillicons.dev/icons?i=py,js,ts,java,c,cpp,php&theme=light" height="40"></picture> |
-| **frontend** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cvite%2Ctailwind%2Credux%2Cmaterialui&theme=dark"><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,materialui&theme=light" height="40"></picture> |
-| **backend & data** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cprisma%2Cpostgres%2Cmongodb%2Cmysql%2Cfirebase&theme=dark"><img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,mysql,firebase&theme=light" height="40"></picture> |
-| **ai / ml** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sklearn%2Ctensorflow%2Copencv&theme=dark"><img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv&theme=light" height="40"></picture> |
-| **cloud & devops** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cvercel%2Ccloudflare%2Cdocker&theme=dark"><img src="https://skillicons.dev/icons?i=aws,vercel,cloudflare,docker&theme=light" height="40"></picture> |
-| **hardware** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=raspberrypi%2Carduino&theme=dark"><img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=light" height="40"></picture> |
-| **tools** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cfigma%2Clatex&theme=dark"><img src="https://skillicons.dev/icons?i=git,github,figma,latex&theme=light" height="40"></picture> |
+| **languages** | <img src="https://skillicons.dev/icons?i=py,js,ts,java,c,cpp,php&theme=dark" height="40" alt="py,js,ts,java,c,cpp,php"> |
+| **frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux,materialui&theme=dark" height="40" alt="react,nextjs,vite,tailwind,redux,materialui"> |
+| **backend & data** | <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,mysql,firebase&theme=dark" height="40" alt="nodejs,express,prisma,postgres,mongodb,mysql,firebase"> |
+| **ai / ml** | <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv&theme=dark" height="40" alt="sklearn,tensorflow,opencv"> |
+| **cloud & devops** | <img src="https://skillicons.dev/icons?i=aws,vercel,cloudflare,docker&theme=dark" height="40" alt="aws,vercel,cloudflare,docker"> |
+| **hardware** | <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" height="40" alt="raspberrypi,arduino"> |
+| **tools** | <img src="https://skillicons.dev/icons?i=git,github,figma,latex&theme=dark" height="40" alt="git,github,figma,latex"> |
 
 <sub>also: React Native · shadcn/ui · Zustand · YOLOv8 · spaCy · Hugging Face · Gemini API · Railway · Render · ESP8266/ESP32 · GrovePi+ · RFID · Stripe · Razorpay · Brevo · Claude Code · MCP</sub>
 
